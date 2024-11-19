@@ -4,7 +4,7 @@ This is a car rental project developed for the graduation Project. It is built u
 
 ## Live website:
 
-- check live website [here](https://realrentcar.galdi.dev/)
+- check live website [here]()
 
 ## Features
 
@@ -14,22 +14,10 @@ This is a car rental project developed for the graduation Project. It is built u
 -   Admin Panel for managing cars, bookings, and users
 
 
-## Interfaces:
-
-- User
-
-![Alt text](public/user_interface.gif)
-
-- Admin
-
-![Alt text](public/admin_interface.gif)
-
-
-
 
 ## Installation
 
-1. Clone the repository: https://github.com/Mohamed-Galdi/RealRentCar
+1. Clone the repository
 
 2. Navigate to the project directory: `cd RealRentCar`
 
